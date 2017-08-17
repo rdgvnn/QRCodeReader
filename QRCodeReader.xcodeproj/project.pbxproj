@@ -12,6 +12,7 @@
 		C4281B401F45052F0062D63B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4281B3E1F45052F0062D63B /* Main.storyboard */; };
 		C4281B421F45052F0062D63B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4281B411F45052F0062D63B /* Assets.xcassets */; };
 		C4281B451F45052F0062D63B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4281B431F45052F0062D63B /* LaunchScreen.storyboard */; };
+		C4281B4D1F45163B0062D63B /* square.png in Resources */ = {isa = PBXBuildFile; fileRef = C4281B4C1F45163B0062D63B /* square.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C4281B411F45052F0062D63B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C4281B441F45052F0062D63B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C4281B461F45052F0062D63B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C4281B4C1F45163B0062D63B /* square.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = square.png; path = ../../Desktop/square.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				C4281B3C1F45052F0062D63B /* ViewController.swift */,
 				C4281B3E1F45052F0062D63B /* Main.storyboard */,
 				C4281B411F45052F0062D63B /* Assets.xcassets */,
+				C4281B4C1F45163B0062D63B /* square.png */,
 				C4281B431F45052F0062D63B /* LaunchScreen.storyboard */,
 				C4281B461F45052F0062D63B /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				C4281B451F45052F0062D63B /* LaunchScreen.storyboard in Resources */,
 				C4281B421F45052F0062D63B /* Assets.xcassets in Resources */,
+				C4281B4D1F45163B0062D63B /* square.png in Resources */,
 				C4281B401F45052F0062D63B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				C4281B4B1F45052F0062D63B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
